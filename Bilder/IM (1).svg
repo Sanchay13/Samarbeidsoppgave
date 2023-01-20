@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   xml:space="preserve"
+   width="185.86667"
+   height="116.208"
+   viewBox="0 0 185.86667 116.208"
+   sodipodi:docname="IM.ai"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+     id="defs6"><clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath16"><path
+         d="M 0,87.156 H 139.4 V 0 H 0 Z"
+         id="path14" /></clipPath></defs><sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0" /><g
+     id="g8"
+     inkscape:groupmode="layer"
+     inkscape:label="IM"
+     transform="matrix(1.3333333,0,0,-1.3333333,0,116.208)"><g
+       id="g10"><g
+         id="g12"
+         clip-path="url(#clipPath16)"><g
+           id="g18"
+           transform="translate(16.1201,71.7461)"><path
+             d="M 0,0 V -22.434 L 7.477,0 Z m -3.5,-63.336 c -1.933,0 -3.5,1.566 -3.5,3.5 V 3.5 C -7,5.433 -5.433,7 -3.5,7 h 15.833 c 1.125,0 2.182,-0.541 2.84,-1.453 0.658,-0.913 0.836,-2.086 0.482,-3.153 L 0,-44.556 v -15.28 c 0,-1.934 -1.568,-3.5 -3.5,-3.5"
+             style="fill:#1d1d1b;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path20" /></g><g
+           id="g22"
+           transform="translate(76.8003,71.7461)"><path
+             d="M 0,0 H 9.783 L 4.892,-9.784 Z M 4.892,-52.01 -21.113,0 H -7.826 L 11.535,-38.724 Z M 37.364,6.906 C 35.784,7.279 34.155,6.517 33.43,5.065 L 15.448,-30.896 8.805,-17.61 18.577,1.935 C 19.442,3.664 18.74,5.766 17.013,6.631 16.521,6.876 16.001,6.991 15.486,6.997 15.473,6.997 15.461,7 15.446,7 h -42.219 -0.001 -0.002 c -1.933,0 -3.5,-1.567 -3.5,-3.5 v -63.336 c 0,-1.934 1.567,-3.5 3.5,-3.5 1.933,0 3.5,1.566 3.5,3.5 v 48.51 L 1.762,-61.401 c 0.003,-0.003 0.005,-0.005 0.008,-0.007 0.327,-0.652 0.855,-1.207 1.557,-1.559 0.503,-0.251 1.036,-0.37 1.562,-0.37 1.285,0 2.52,0.709 3.132,1.936 l 25.039,50.075 v -48.51 c 0,-1.934 1.567,-3.5 3.5,-3.5 1.933,0 3.5,1.566 3.5,3.5 V 3.5 c 0,1.623 -1.116,3.034 -2.696,3.406"
+             style="fill:#1d1d1b;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path24" /></g></g></g></g></svg>
